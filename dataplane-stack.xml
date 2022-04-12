@@ -2,7 +2,7 @@
 <manifest>
   <remote fetch="https://github.com/" name="github"/>
   
-  <project remote="github" name="DPDK/dpdk" path="dpdk" revision="v22.11"/>
+  <project remote="github" name="DPDK/dpdk" path="dpdk" revision="v21.11"/>
 
   
 </manifest>
