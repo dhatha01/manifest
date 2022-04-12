@@ -2,8 +2,9 @@
 <manifest>
   <remote fetch="https://git.gitlab.arm.com/" name="arm"/>
   <remote fetch="https://github.com/" name="github"/>
-
-  <project remote="arm" name="arm-reference-solutions/dataplane-stack" path="dataplane-stack" revision=""/>
-
+  
   <project remote="github" name="DPDK/dpdk" path="dpdk" revision="refs/tags/v22.11"/>
+  <project remote="arm" name="arm-reference-solutions/dataplane-stack" path="dataplane-stack"/>
+
+  
 </manifest>
